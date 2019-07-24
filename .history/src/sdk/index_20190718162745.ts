@@ -1,0 +1,6 @@
+class Sdk{
+  constructor():void {
+
+  }
+
+}
